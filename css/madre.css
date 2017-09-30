@@ -1,0 +1,71 @@
+
+/* 
+    Created on : 28-mar-2016, 14:40:42
+    Author     : Diego Ruiz
+*/
+
+h1{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+.imgLupa{
+    height: 50px;
+    width: 50px;
+    margin-top: 1%;
+    position: absolute;
+    margin-left: -14%;
+}
+fieldset{
+
+    width: 70%;
+    -webkit-box-shadow: 24px -2px 61px 0px rgba(0,0,0,0.61);
+    -moz-box-shadow: 24px -2px 61px 0px rgba(0,0,0,0.61);
+    box-shadow: 24px -2px 61px 0px rgba(0,0,0,0.61);
+    border: ridge;
+    border-left-color: goldenrod;
+    border-right-color: goldenrod;
+    border-bottom-color: goldenrod;
+    border-top-color: goldenrod;
+    height: 150px;
+
+}
+legend{
+    margin-left: 2%;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 40px;        
+    border-bottom-style: inset;
+
+    border-left-color: forestgreen;
+    border-bottom-color: forestgreen;
+    border-right-color: forestgreen;
+    color: tomato;
+
+}
+.btnBuscar-index{
+    margin-top: 1%;
+    margin-left: -10%;
+    position: absolute;
+    height: 50px;
+    width: 30%;
+    font-size: 30px;
+    font-family: serif;
+    color: forestgreen;
+}
+.cont2-index{
+    margin-top: 4%;
+}
+.imgBuscardor{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    margin: 5px;
+}
+.fieldset2{
+    display: none;
+}
+#enDonde{
+    display: none;
+}
+
